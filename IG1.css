@@ -1,0 +1,57 @@
+header{
+text-align:center;
+font-family:url(https://fonts.google.com/?selection.family=Felipa);
+color:White;}
+body{
+width:100%;
+height:auto;
+background-image:url(IG.png);}
+h2{
+text-align:center;
+font-family:lobster;
+font-size:30px;
+color:white;}
+#Form1{
+text-align:center;
+}
+#help{
+text-align:center;
+color:white;}
+#one{
+text-align:center;
+color:white;}
+#two{
+text-align:center;
+color:white;
+font-family:arial;}
+#input{
+	border:1px solid rgb(108,164,140);
+border-style:ridge;
+width:300px;
+height:40px;
+border-radius:5px;
+opacity:0.4;
+filter:alpha(opacity=60);
+font-weight: bold;
+color:#000000;
+}
+#input2{
+	border:1px solid rgb(108,164,140);
+border-style:ridge;
+width:300px;
+height:40px;
+border-radius:5px;
+opacity:0.4;
+font-weight:bold;
+color:#000000;
+}
+#submit{
+border:1px solid rgb(108,164,140);
+border-style:ridge;
+border-radius:5px;
+width:300px;
+height:40px;
+background-image:url(I.png);}
+footer{
+color:white;
+padding:60px;}
